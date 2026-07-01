@@ -1,2 +1,2 @@
 # Research-Project
-基于热红外无人机遥感的高时空分辨率城市绿地降温研究——以上海共青国家森林公园为例
+Using UAV thermal infrared and 3D radar, this study examines urban cooling at high spatiotemporal resolution. LST correlates positively with air T and negatively with humidity. Vegetation/water cool, cement increases heat. Taller canopies enhance cooling; uneven distribution maximizes benefits. Findings guide planning.
